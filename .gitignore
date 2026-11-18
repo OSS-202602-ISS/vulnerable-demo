@@ -1,0 +1,9 @@
+# Secrets - never commit real values
+.env
+
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]

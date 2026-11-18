@@ -1,0 +1,4 @@
+# Settings app.py reads at start-up. Change these values instead of editing code.
+name: "Course demo"            # label printed before the result
+url: "https://api.github.com"  # the page app.py downloads
+timeout: 10                    # seconds to wait before giving up
